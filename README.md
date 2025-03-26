@@ -9,3 +9,10 @@ TaskMate is designed to help users manage their daily tasks easily. It features 
 🔹 Java – Core programming language
 🔹 XML – UI design
 🔹 Internal Storage (File Handling) – For data persistence
+
+🎯 **Features**
+✅ Task Management – Add, edit, delete, and search tasks
+✅ Data Persistence – Uses internal storage (no external database required)
+✅ Splash Screen – Automatically transitions to the main task screen
+✅ User-Friendly Interface – Simple and lightweight design
+✅ Efficient Performance – Works smoothly without lag
