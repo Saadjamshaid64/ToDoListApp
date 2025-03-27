@@ -13,8 +13,9 @@ TaskMate is designed to help users manage their **daily tasks** easily. It featu
 - **Java** – Core programming language
 - **XML** – UI design
 - **Internal Storage (File Handling)** – For data persistence
+***
 
-### 🎯 **Features**
+## 🎯 **Features**
 
 - **Task Management** – Add, edit, delete, and search tasks
 - **Data Persistence** – Uses internal storage (no external database required)
@@ -61,3 +62,9 @@ TaskMate/
 ├── README.md              # Project documentation
 └── .gitignore             # Files to ignore in Git
 ```
+***
+## 🏗 **How It Works**
+1. **Launch the app** – The splash screen appears
+2. **Manage tasks** – Add, edit, delete, or search tasks
+3. **Data is saved** – Tasks remain stored even after closing the app
+
