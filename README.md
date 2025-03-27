@@ -16,11 +16,15 @@ TaskMate is designed to help users manage their **daily tasks** easily. It featu
 
 ### 🎯 **Features**
 
-- Task Management – Add, edit, delete, and search tasks
-- Data Persistence – Uses internal storage (no external database required)
-- Splash Screen – Automatically transitions to the main task screen
-- User-Friendly Interface – Simple and lightweight design
-- Efficient Performance – Works smoothly without lag
+- **Task Management** – Add, edit, delete, and search tasks
+- **Data Persistence** – Uses internal storage (no external database required)
+- **Splash Screen** – Automatically transitions to the main task screen
+- **User-Friendly Interface** – Simple and lightweight design
+- **Efficient Performance** – Works smoothly without lag
 ***
 
-🚀 **Setup Instructions**
+## 🚀 **Setup Instructions**
+### 1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/your-username/TaskMate.git
+cd TaskMate
