@@ -67,4 +67,9 @@ TaskMate/
 1. **Launch the app** – The splash screen appears
 2. **Manage tasks** – Add, edit, delete, or search tasks
 3. **Data is saved** – Tasks remain stored even after closing the app
+***
 
+## 📜 **License**
+This project is open-source and available under the **MIT License.**
+***
+🎯 **Keep Building & Keep Learning!** 🚀✨
