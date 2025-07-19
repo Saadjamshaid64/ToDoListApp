@@ -43,21 +43,19 @@ cd ToDoListApp
 
 ## 📂 **Project Structure**
 ```plaintext
-TaskMate/
-├── app/src/main/java/com/example/taskmate/
+ToDoList/
+├── app/java/com.example.todolist/
 │   ├── MainActivity.java  # Main screen where tasks are managed
-│   ├── SplashScreen.java  # Splash screen before launching the app
-│   ├── TaskAdapter.java   # Adapter for displaying tasks in RecyclerView
-│   ├── TaskModel.java     # Model class for tasks
-│   ├── StorageHelper.java # Handles reading/writing tasks to internal storage
+│   ├── Show.java  # Splash screen before launching the app
 │
-├── app/src/main/res/layout/
+├── app/res/layout/
 │   ├── activity_main.xml  # UI layout for the main screen
-│   ├── activity_splash.xml # UI layout for the splash screen
-│   ├── item_task.xml      # UI layout for individual task items
+│   ├── activity_show.xml # UI layout for the splash screen
+│   ├── dialog.xml      # UI layout for individual task items
+│   ├── card.xml      # UI layout for individual task items with buttons
 │
-├── app/src/main/res/drawable/
-│   ├── icon.png           # App icon
+├── app/res/drawable/
+│   ├── search.png           # App icon
 │
 ├── README.md              # Project documentation
 └── .gitignore             # Files to ignore in Git
