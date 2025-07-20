@@ -72,6 +72,6 @@ This project is open-source and available under the **MIT License.**
 ***
 
 ## 📬 Contact
-Feel free to connect or reach out on LinkedIn
+Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/saadjamshaid64/)
 ***
 🎯 **Keep Building & Keep Learning!** 🚀✨
