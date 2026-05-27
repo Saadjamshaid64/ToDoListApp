@@ -27,7 +27,7 @@ TaskMate is designed to help users manage their **daily tasks** easily. It featu
 ## 🚀 **Setup Instructions**
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/ToDoListApp
+git clone https://github.com/Saadjamshaid64/ToDoListApp.git
 cd ToDoListApp
 ```
 
